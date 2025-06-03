@@ -35,7 +35,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Typescript
 - Tailwind ( 4.1.8 )
 - Shadcn
-- Clerk ( Google )
+- Clerk
+  - Google ( SignUp, SignIn )
+  - Webhook ( to create, update, delete user in db via Clerk's user profile management )
 - Neon ( Serverless Postgres )
 - Drizzle ( ORM )
 
