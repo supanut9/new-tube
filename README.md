@@ -40,6 +40,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   - Webhook ( to create, update, delete user in db via Clerk's user profile management )
 - Neon ( Serverless Postgres )
 - Drizzle ( ORM )
+- Upstash ( Redis & Ratelimit )
 
 ## Deploy on Vercel
 
